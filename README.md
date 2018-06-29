@@ -71,9 +71,11 @@ Android
 
 
 # Documentation / Documentación 
-* Read Considerations, Recommendations and Suggestions complete documentation of the project in [Meter PZEM-004 + ESP8266 & Platform IoT Ubidots](http://pdacontrolen.com/meter-pzem-004-esp8266-platform-iot-blynk-app/). 
+* Read Considerations, Recommendations and Suggestions complete documentation of the project in [Meter PZEM-004 + ESP8266 & Platform IoT Ubidots](http://pdacontrolen.com/meter-pzem-004-esp8266-platform-iot-ubidots/).
 
-* Leer Consideraciones, Recomendaciones y sugerencias documentacion Completa del proyecto en  [Medidor PZEM-004 + ESP8266 & Plataforma IoT Ubidots](http://pdacontroles.com/medidor-pzem-004-esp8266-plataforma-iot-blynk-app/).
+
+
+* Leer Consideraciones, Recomendaciones y sugerencias documentacion Completa del proyecto en  [Medidor PZEM-004 + ESP8266 & Plataforma IoT Ubidots](http://pdacontroles.com/medidor-pzem-004-esp8266-plataforma-iot-ubidots/).
 
 # Donations / Donaciones 
 Collaborate this project and other projects in [PDAControl](http://pdacontrolen.com)  via [Paypal](https://www.paypal.me/pdacontrol). 
